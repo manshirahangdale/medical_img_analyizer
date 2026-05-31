@@ -29,9 +29,8 @@ exactly where the model detected abnormalities.
 - Grad-CAM
 - Jupyter / Google Colab
 
-## Run it yourself
-Open in Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+## View Notebook
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/manshirahangdale/medical_img_analyizer/blob/main/notebooks/pneumonia_classifier.ipynb)
 
 ## Motivation
 Built after a friend's accident highlighted how inaccessible
